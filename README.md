@@ -4,6 +4,8 @@
 Create a visually engaging and interactive webpage that utilizes **CSS3 transitions and animations**, **advanced JavaScript functions** (including scope, parameters, and return values), and combines **CSS animations with JavaScript** to create dynamic user interactions.  
 
 ---
+![Screenshot (237)](https://github.com/user-attachments/assets/e3ab80f4-5e6d-40f5-ad70-844350bc100f)
+
 
 ### **Part 1: CSS3 Transitions and Animations**  
 1. **Task**:  
